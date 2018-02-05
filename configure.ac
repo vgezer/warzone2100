@@ -1,5 +1,5 @@
 AC_PREREQ([2.56])
-AC_INIT([Warzone 2100],[master],[http://wz2100.net/],[warzone2100])
+AC_INIT([Warzone 2100],[resizing_high_dpi_work],[http://wz2100.net/],[warzone2100])
 
 AM_INIT_AUTOMAKE([1.11 tar-ustar no-dist-gzip dist-xz subdir-objects])
 
